@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:calculator/package.dart';
 
 Color blue = Colors.blue;
 Color white = Colors.white;
