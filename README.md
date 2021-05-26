@@ -10,7 +10,7 @@
 <!-- * [Contact](#contact) -->
 
 ## General Information
-- Calculator app with GetX and Bloc.
+- Calculator app with GetX and Bloc
 
 ## Technologies Used
 - Flutter
@@ -25,7 +25,7 @@
 
 ## Screenshots
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/83572055/119536411-42a77b00-bdb3-11eb-8298-563ff61dd0f9.png">
+  <!-- <img width="300" src="https://user-images.githubusercontent.com/83572055/119536411-42a77b00-bdb3-11eb-8298-563ff61dd0f9.png"> -->
   <img width="300" src="https://user-images.githubusercontent.com/83572055/119536557-6965b180-bdb3-11eb-8315-67f0f6054c92.png">
 </p>
 
